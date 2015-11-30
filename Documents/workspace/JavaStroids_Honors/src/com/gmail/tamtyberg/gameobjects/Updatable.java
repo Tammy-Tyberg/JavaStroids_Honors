@@ -1,4 +1,4 @@
-package com.gmail.tamtyberg.gameobjects;
+package com.HCIHonors.javastroid.gameobjects;
 
 
 public interface Updatable {
