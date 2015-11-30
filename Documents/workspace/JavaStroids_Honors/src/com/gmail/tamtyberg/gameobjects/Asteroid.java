@@ -1,4 +1,4 @@
-package com.gmail.tamtyberg.gameobjects;
+package com.HCIHonors.javastroid.gameobjects;
 
 import java.util.Random;
 
@@ -6,7 +6,7 @@ import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.math.Vector2;
-import com.gmail.tamtyberg.game.Constants;
+import com.HCIHonors.javastroid.game.Constants;
 
 
 
@@ -84,4 +84,3 @@ public class Asteroid extends GameObject implements Updatable{
 	}
 
 }
-
