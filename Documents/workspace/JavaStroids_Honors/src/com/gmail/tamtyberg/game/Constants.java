@@ -1,4 +1,4 @@
-package com.gmail.tamtyberg.game;
+package com.HCIHonors.javastroid.game;
 
 import java.util.ArrayList;
 import java.util.Arrays;
