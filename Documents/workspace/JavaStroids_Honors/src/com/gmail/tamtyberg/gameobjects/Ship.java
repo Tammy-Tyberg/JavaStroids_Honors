@@ -1,4 +1,5 @@
-package com.gmail.tamtyberg.gameobjects;
+package com.HCIHonors.javastroid.gameobjects;
+
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
